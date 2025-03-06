@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-One-Dimesional_Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD3E1E3-447A-4EEF-AE63-0DD74E1BF34B}|4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array.csproj|c:\\users\\mineducyt\\desktop\\practica 3\\ejerciciosaspx\\githu\\4994880-one-dimesional_array\\4994880-one-dimesional_array\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAD3E1E3-447A-4EEF-AE63-0DD74E1BF34B}|4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array.csproj|solutionrelative:4994880-one-dimesional_array\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD3E1E3-447A-4EEF-AE63-0DD74E1BF34B}|4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array.csproj|c:\\users\\mineducyt\\desktop\\practica 3\\ejerciciosaspx\\githu\\4994880-one-dimesional_array\\4994880-one-dimesional_array\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD3E1E3-447A-4EEF-AE63-0DD74E1BF34B}|4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array.csproj|solutionrelative:4994880-one-dimesional_array\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD3E1E3-447A-4EEF-AE63-0DD74E1BF34B}|4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array.csproj|c:\\users\\mineducyt\\desktop\\practica 3\\ejerciciosaspx\\githu\\4994880-one-dimesional_array\\4994880-one-dimesional_array\\pagearray.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAD3E1E3-447A-4EEF-AE63-0DD74E1BF34B}|4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array.csproj|solutionrelative:4994880-one-dimesional_array\\pagearray.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageArray.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array\\PageArray.aspx",
+              "RelativeDocumentMoniker": "4994880-One-Dimesional_Array\\PageArray.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array\\PageArray.aspx",
+              "RelativeToolTip": "4994880-One-Dimesional_Array\\PageArray.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T17:05:36.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "4994880-One-Dimesional_Array\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array\\WebForm1.aspx.cs",
+              "RelativeToolTip": "4994880-One-Dimesional_Array\\WebForm1.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:02:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "4994880-One-Dimesional_Array\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-One-Dimesional_Array\\4994880-One-Dimesional_Array\\WebForm1.aspx",
+              "RelativeToolTip": "4994880-One-Dimesional_Array\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T17:00:18.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
