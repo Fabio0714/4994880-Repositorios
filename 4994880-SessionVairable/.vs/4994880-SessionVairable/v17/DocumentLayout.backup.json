@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-SessionVairable\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|c:\\users\\mineducyt\\desktop\\practica 3\\ejerciciosaspx\\githu\\4994880-sessionvairable\\4994880-sessionvairable\\confirmsessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|solutionrelative:4994880-sessionvairable\\confirmsessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-SessionVairable\\4994880-sessionvairable\\confirmsessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|solutionrelative:4994880-sessionvairable\\confirmsessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|c:\\users\\mineducyt\\desktop\\practica 3\\ejerciciosaspx\\githu\\4994880-sessionvairable\\4994880-sessionvairable\\principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|solutionrelative:4994880-sessionvairable\\principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|c:\\users\\mineducyt\\desktop\\practica 3\\ejerciciosaspx\\githu\\4994880-sessionvairable\\4994880-sessionvairable\\confirmsessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|solutionrelative:4994880-sessionvairable\\confirmsessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|c:\\users\\mineducyt\\desktop\\practica 3\\ejerciciosaspx\\githu\\4994880-sessionvairable\\4994880-sessionvairable\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-SessionVairable\\4994880-sessionvairable\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5C844D9-8834-4F72-9C2F-4138D0A82B51}|4994880-SessionVairable\\4994880-SessionVairable.csproj|solutionrelative:4994880-sessionvairable\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfirmSessionVariable.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-SessionVairable\\4994880-SessionVairable\\ConfirmSessionVariable.aspx.cs",
+              "RelativeDocumentMoniker": "4994880-SessionVairable\\ConfirmSessionVariable.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-SessionVairable\\4994880-SessionVairable\\ConfirmSessionVariable.aspx.cs",
+              "RelativeToolTip": "4994880-SessionVairable\\ConfirmSessionVariable.aspx.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAxwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:29:54.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Principal.aspx.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-SessionVairable\\4994880-SessionVairable\\Principal.aspx.cs",
               "RelativeDocumentMoniker": "4994880-SessionVairable\\Principal.aspx.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Principal.aspx",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3\\EjerciciosASPX\\GITHu\\4994880-SessionVairable\\4994880-SessionVairable\\Principal.aspx",
               "RelativeDocumentMoniker": "4994880-SessionVairable\\Principal.aspx",
@@ -68,8 +85,7 @@
               "RelativeToolTip": "4994880-SessionVairable\\Principal.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-06T16:15:37.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T16:15:37.694Z"
             }
           ]
         }
